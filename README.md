@@ -96,7 +96,7 @@
 
 <p>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrikant-kushwah&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="shrikant-kushwah" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrikant-kushwah&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="shrikant-kushwah" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrikant-kushwah&layout=compact&exclude_repo=&hide=Shell&border_radius=0&theme=dark" alt="shrikant-kushwah" height="139" />
     
 </p>
 <br>
