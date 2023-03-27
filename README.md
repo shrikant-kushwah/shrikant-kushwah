@@ -64,7 +64,7 @@
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=1a78f4&logo=weather&logoColor=FFFFFF&label=" alt="Weather_App" />
     </a>
     <a href="https://github.com/shrikant-kushwah/Live-Ecommerce-Website-Reacts-js-" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ecommerce Website&color=00000&logo=Ecommerce&logoColor=FFFFFF&label=" alt="Live-Ecommerce-Website-Reacts-js-" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ecommerce Website&color=00000&logo=Ecommerce&logoColor=FFFF00&label=" alt="Live-Ecommerce-Website-Reacts-js-" />
     </a>
     
 </p>
