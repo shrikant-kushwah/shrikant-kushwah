@@ -123,7 +123,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=Weather_App&locale=en&border_radius=0&theme=dark" alt="shrikant-kushwah" />
     </a>
     <a href="https://github.com/shrikant-kushwah/Live-Ecommerce-Website-Reacts-js-">
-        <img align="center" src="https://live-ecommerce-website-reacts-js-.pages.dev/api/pin/?username=shrikant-kushwah&repo=Live-Ecommerce-Website-Reacts-js-&locale=en&border_radius=0&theme=dark" alt="shrikant-kushwah" />
+        <img align="center" src="https://live-ecommerce-website-reacts-js.pages.dev//api/pin/?username=shrikant-kushwah&repo=Live-Ecommerce-Website-Reacts-js-&locale=en&border_radius=0&theme=dark" alt="shrikant-kushwah" />
     </a>
     
 </p>
