@@ -99,7 +99,7 @@
 
 <h2><i>My GitHub Stats</i></h2>
 <p>
-    <a href="https://github.com/shrikant-kushwah?tab=overview&from=2021-12-01&to=2021-12-31">
+    <a href="https://github.com/shrikant-kushwah">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrikant-kushwah&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="shrikant-kushwah" height="139" />
     </a>
     <a href="https://github.com/shrikant-kushwah">
