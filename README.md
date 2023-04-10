@@ -67,7 +67,7 @@
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GPT3_SK Website&color=042c54&logo=GPT3_SK&logoColor=FFFFFF&label=" alt="gpt3_sk" />
     </a>
     <a href="https://github.com/shrikant-kushwah/Live-Restaurant" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Live-Restaurant Website&color=0c0c0c&logo=Live-Restaurant&logoColor=FFFFFF&label=" alt="Live-Restaurant" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Live-Restaurant Website&color=dcca87&logo=Live-Restaurant&logoColor=FFFFFF&label=" alt="Live-Restaurant" />
     </a>
     
 </p>
