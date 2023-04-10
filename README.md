@@ -117,7 +117,10 @@
     <a href="https://github.com/shrikant-kushwah/Live-Ecommerce-Website-Reacts-js-">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=Live-Ecommerce-Website-Reacts-js-&locale=en&border_radius=0&theme=dark" alt="shrikant-kushwah"/>
     </a>
-    <a href="https://github.com/shrikant-kushwah/Weather_App">
+    <a href="https://github.com/shrikant-kushwah/gpt3_sk">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=Weather_App&locale=en&border_radius=0&theme=dark" alt="shrikant-kushwah"/>
+    </a>
+    <a href="https://github.com/shrikant-kushwah/Weather_App">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=GPT3_SK Website&locale=en&border_radius=0&theme=dark" alt="shrikant-kushwah"/>
     </a>
 </p>
