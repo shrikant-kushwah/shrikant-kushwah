@@ -38,7 +38,6 @@
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
 <h2><i>Tech Stack</i></h2>
-
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
@@ -54,8 +53,6 @@
 <!----------------------------------- Project Section ------------------------------------>
 
 <h2><i>My top projects</i></h2>
-
-
 <p align="left">
     <a href="https://github.com/shrikant-kushwah/Online_Food_Delivery_Website" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Food Zone&color=000000&logo=Food&logoColor=FFFFFF&label=" alt="Online_Food_Delivery_Website" />
@@ -66,6 +63,9 @@
     <a href="https://github.com/shrikant-kushwah/Live-Ecommerce-Website-Reacts-js-" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ecommerce Website&color=FFFF00&logo=Ecommerce&logoColor=FFFFFF&label=" alt="Live-Ecommerce-Website-Reacts-js-" />
     </a>
+    <a href="https://github.com/shrikant-kushwah/gpt3_sk" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GPT3_SK Website&color=FFFF00&logo=GPT3_SK&logoColor=FFFFFF&label=" alt="gpt3_sk" />
+    </a>
     
 </p>
 <br>
@@ -75,8 +75,6 @@
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 <h2><i>Let's Connect</i></h2>
-
-
 <p align="left">
     <a href="https://www.linkedin.com/in/shrikant-kushwah-5bb1911b2/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/shrikant-kushwah-5bb1911b2/" />
@@ -96,7 +94,6 @@
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
 <h2><i>My GitHub Stats</i></h2>
-
 <p>
     <a href="https://github.com/shrikant-kushwah">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrikant-kushwah&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="shrikant-kushwah" height="139" />
@@ -113,8 +110,6 @@
 <!----------------------------------- Top Repository Section ------------------------------------>
 
 <h2><i>Top Repositories</i></h2>
-
-
 <p>
     <a href="https://github.com/shrikant-kushwah/Online_Food_Delivery_Website">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=Online_Food_Delivery_Website&locale=en&border_radius=0&theme=dark" alt="shrikant-kushwah"/>
