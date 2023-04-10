@@ -64,7 +64,7 @@
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ecommerce Website&color=FFFF00&logo=Ecommerce&logoColor=FFFFFF&label=" alt="Live-Ecommerce-Website-Reacts-js-" />
     </a>
     <a href="https://github.com/shrikant-kushwah/gpt3_sk" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GPT3_SK Website&color=031b34&logo=GPT3_SK&logoColor=FFFFFF&label=" alt="gpt3_sk" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GPT3_SK Website&color=040c18&logo=GPT3_SK&logoColor=FFFFFF&label=" alt="gpt3_sk" />
     </a>
     
 </p>
