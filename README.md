@@ -15,7 +15,7 @@
 </h3>
 
 <h3>
-    <i>- Currently working as a Front-end Developer</i>
+    <i>- Currently Looking for a Frontend Developer(ReactJs) Role </i>
 </h3>
 <br>
 
