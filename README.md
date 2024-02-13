@@ -21,7 +21,7 @@
 
 <p align="left">
     <a href="https://github.com/shrikant-kushwah">
-        <img src="https://github.com/ghpvc/?username=shrikant-kushwah&label=Profile%20views&color=0e75b6&style=flat" alt="shrikant-kushwah" />
+        <img src="https://komarev.com/ghpvc/?username=shrikant-kushwah&label=Profile%20views&color=0e75b6&style=flat" alt="shrikant-kushwah" />
     </a>
     <a href="https://github.com/shrikant-kushwah?tab=followers">
         <img src="https://img.shields.io/github/followers/shrikant-kushwah?label=Followers&style=social" alt="followers-count">
