@@ -11,10 +11,6 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
-</h3>
-
-<h3>
     <i>- Currently Looking for a Frontend Developer(ReactJs) Role </i>
 </h3>
 <br>
