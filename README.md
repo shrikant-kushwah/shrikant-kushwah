@@ -92,7 +92,7 @@
 
 
 
-<!----------------------------------- GitHub Stats Section --------------------------------
+<!----------------------------------- GitHub Stats Section ------------------------------------>
 
 <h2><i>My GitHub Stats</i></h2>
 <p>
@@ -105,10 +105,10 @@
     
 </p>
 <br>
----->
 
 
-<!----------------------------------- Top Repository Section -------------------------------
+
+<!----------------------------------- Top Repository Section ------------------------------------>
 
 <h2><i>Top Repositories</i></h2>
 <p>
@@ -125,4 +125,4 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=Online_Food_Delivery_Website&locale=en&border_radius=0&theme=dark" alt="shrikant-kushwah"/>
     </a>
 </p>
------>
+
