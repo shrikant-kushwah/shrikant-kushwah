@@ -3,7 +3,6 @@
         Hi
         <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="35" alt="wave">
         I'm Shrikant Kushwah
-        <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35" alt="logo">
     </h1>
 
 
@@ -96,10 +95,10 @@
 
 <h2><i>My GitHub Stats</i></h2>
 <p>
-    <a href="https://github.com/shrikant-kushwah">
+    <a href=https://github.com/shrikant-kushwah">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrikant-kushwah&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="shrikant-kushwah" height="139" />
     </a>
-    <a href="https://github.com/shrikant-kushwah">
+    <a href="hhttps://github.com/shrikant-kushwah">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrikant-kushwah&layout=compact&exclude_repo=&hide=Shell&border_radius=0&theme=dark" alt="shrikant-kushwah" height="139" />
     </a>
     
