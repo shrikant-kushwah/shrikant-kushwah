@@ -113,16 +113,16 @@
 <h2><i>Top Repositories</i></h2>
 <p>
     <a href="https://github.com/shrikant-kushwah/Live-Ecommerce-Website-Reacts-js-">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=Live-Ecommerce-Website-Reacts-js-&locale=en&border_radius=0&theme=dark" alt="shrikant-kushwah"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=Live-Ecommerce-Website-Reacts-js-&locale=en&border_radius=0&theme=dark" alt="Live-Ecommerce-Website-Reacts-js-"/>
     </a>
     <a href="https://github.com/shrikant-kushwah/gpt3_sk">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=gpt3_sk&locale=en&border_radius=0&theme=dark" alt="shrikant-kushwah"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=gpt3_sk&locale=en&border_radius=0&theme=dark" alt="gpt3_sk"/>
     </a>
     <a href="https://github.com/shrikant-kushwah/Weather_App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=Weather_App&locale=en&border_radius=0&theme=dark" alt="shrikant-kushwah"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=Weather_App&locale=en&border_radius=0&theme=dark" alt="Weather_App"/>
     </a>
     <a href="https://github.com/shrikant-kushwah/Online_Food_Delivery_Website">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=Online_Food_Delivery_Website&locale=en&border_radius=0&theme=dark" alt="shrikant-kushwah"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=Online_Food_Delivery_Website&locale=en&border_radius=0&theme=dark" alt="Online_Food_Delivery_Website"/>
     </a>
 </p>
 
