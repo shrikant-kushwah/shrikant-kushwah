@@ -1,4 +1,6 @@
-![gitphoto3](https://github.com/user-attachments/assets/75abdf4d-fca0-4166-bd0e-bbe6b21254c9)
+<h1 align="center">
+     ![gitphoto3](https://github.com/user-attachments/assets/75abdf4d-fca0-4166-bd0e-bbe6b21254c9)   
+</h1>
 
 
 <!----------------------------------- Heading Section ------------------------------------>
