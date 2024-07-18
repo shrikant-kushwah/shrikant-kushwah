@@ -110,19 +110,43 @@
 
 <!----------------------------------- Top Repository Section ------------------------------------>
 
-<h2><i>Top Repositories</i></h2>
-<p>
-    <a href="https://github.com/shrikant-kushwah/Live-Ecommerce-Website-Reacts-js-">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=Live-Ecommerce-Website-Reacts-js-&locale=en&border_radius=0&theme=dark" alt="Live-Ecommerce-Website-Reacts-js-"/>
-    </a>
-    <a href="https://github.com/shrikant-kushwah/gpt3_sk">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=gpt3_sk&locale=en&border_radius=0&theme=dark" alt="gpt3_sk"/>
-    </a>
-    <a href="https://github.com/shrikant-kushwah/Weather_App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=Weather_App&locale=en&border_radius=0&theme=dark" alt="Weather_App"/>
-    </a>
-    <a href="https://github.com/shrikant-kushwah/Online_Food_Delivery_Website">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=Online_Food_Delivery_Website&locale=en&border_radius=0&theme=dark" alt="Online_Food_Delivery_Website"/>
-    </a>
-</p>
+const repos = [
+    {
+        url: "https://github.com/shrikant-kushwah/Live-Ecommerce-Website-Reacts-js-",
+        imgSrc: "https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=Live-Ecommerce-Website-Reacts-js-&locale=en&border_radius=0&theme=dark",
+        alt: "shrikant-kushwah"
+    },
+    {
+        url: "https://github.com/shrikant-kushwah/gpt3_sk",
+        imgSrc: "https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=gpt3_sk&locale=en&border_radius=0&theme=dark",
+        alt: "shrikant-kushwah"
+    },
+    {
+        url: "https://github.com/shrikant-kushwah/Weather_App",
+        imgSrc: "https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=Weather_App&locale=en&border_radius=0&theme=dark",
+        alt: "shrikant-kushwah"
+    },
+    {
+        url: "https://github.com/shrikant-kushwah/Online_Food_Delivery_Website",
+        imgSrc: "https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=Online_Food_Delivery_Website&locale=en&border_radius=0&theme=dark",
+        alt: "shrikant-kushwah"
+    }
+];
+
+const container = document.createElement('div');
+repos.forEach(repo => {
+    const a = document.createElement('a');
+    a.href = repo.url;
+
+    const img = document.createElement('img');
+    img.align = 'center';
+    img.src = repo.imgSrc;
+    img.alt = repo.alt;
+
+    a.appendChild(img);
+    container.appendChild(a);
+});
+
+document.body.appendChild(container);
+
 
