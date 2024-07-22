@@ -1,6 +1,9 @@
 ![web-developer-logo-4](https://github.com/user-attachments/assets/a7bb399a-037e-4851-a2cb-5dfdd6a89ba4)
 
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Frontend%20Developer;Freelance%20Developer%20&font=Fira%20Code&width=440&height=35&color=4B70C5&pause=1000&size=24" />
+
 
 
 <!----------------------------------- Heading Section ------------------------------------>
