@@ -16,7 +16,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Frontend%20Developer;Freelance%20Developer%20&font=Fira%20Code&width=440&height=35&color=3F00F7&pause=1000&size=24" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Frontend%20Developer;Freelance%20Developer%20&font=Fira%20Code&width=500&height=35&color=3F00F7&pause=1000&size=26" />
 </p>
 
 
