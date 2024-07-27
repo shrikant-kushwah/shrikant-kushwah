@@ -1,7 +1,6 @@
 
 <!----------------------------------- Heading Section -----------------------------
 ![web-developer-logo-4](https://github.com/user-attachments/assets/a7bb399a-037e-4851-a2cb-5dfdd6a89ba4)
-
 ------->
 
 <!----------------------------------- Heading Section -----------------------------
@@ -11,6 +10,8 @@
         I'm Shrikant Kushwah
     </h1>
 ------->
+
+
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F00F7&random=false&width=900&lines=%E2%9C%A8+Hey%2C+I'm+Shrikant+Kushwah.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
