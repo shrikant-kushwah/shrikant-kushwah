@@ -122,9 +122,9 @@
 
 <!-----------------------------------GitHub Streak-------------------------------------->
 
-<h2 align="center"><em>GitHub Streak</em></h2>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&theme=dark" alt="GitHub Streak - Shrikant Kushwah">
+<h2><em>GitHub Streak</em></h2>
+<div style="text-align: center;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&theme=dark" alt="shrikant-kushwah"/>
 </div>
 
 
