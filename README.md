@@ -124,7 +124,7 @@
 
 <h2><em>GitHub Streak</em></h2>
 <div style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&theme=dark" alt="GitHub Streak - Shrikant Kushwah" />
+    <img align="center" src="https://github-readme-streak-stats.demolab.com/?user=shrikant-kushwah&theme=dark" alt="shrikant-kushwah"/>
 </div>
 
 
@@ -132,6 +132,8 @@
 <h2><i>GitHub Streak</i></h2>
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&theme=dark" alt="shrikant-kushwah"/>
+    <img align="center" src="https://github-readme-streak-stats.demolab.com/?user=shrikant-kushwah&theme=dark" alt="shrikant-kushwah"/>
+    https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 </p>
 --------->
 
