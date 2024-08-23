@@ -1,4 +1,13 @@
- <!-- Heading Section -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile README</title>
+</head>
+<body>
+
+    <!-- Heading Section -->
     <h1 align="center">
         Hi 
         <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="35" alt="wave" />
@@ -99,3 +108,6 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=shrikant-kushwah&repo=Weather_App&locale=en&border_radius=0&theme=dark" alt="Weather App Repo" />
         </a>
     </p>
+
+</body>
+</html>
