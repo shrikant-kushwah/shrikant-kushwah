@@ -122,13 +122,26 @@
 
 <!-----------------------------------GitHub Streak-------------------------------------->
 
+<h2 align="center"><em>GitHub Streak</em></h2>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&theme=dark" alt="GitHub Streak - Shrikant Kushwah">
+</div>
+
+
+<!---------------------------
+<h2 align="center"><em>GitHub Streak</em></h2>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&theme=dark" alt="GitHub Streak - Shrikant Kushwah">
+</div>
+
 <h2><em>GitHub Streak</em></h2>
 <div style="text-align: center;">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&theme=dark" alt="shrikant-kushwah"/>
 </div>
 
 
-<!---------------------------
+
+
 <h2><i>GitHub Streak</i></h2>
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&theme=dark" alt="shrikant-kushwah"/>
