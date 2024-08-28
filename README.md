@@ -123,11 +123,16 @@
 
 <h2><i>GitHub Streak</i></h2>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&theme=dark" alt="shrikant-kushwah"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&" alt="shrikant-kushwah" />
 </p>
 
 
 <!---------------------------
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slugneffex&" alt="slugneffex" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&" alt="shrikant-kushwah" /></p>
+
+
+
 <h2 align="center"><em>GitHub Streak</em></h2>
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&theme=dark" alt="GitHub Streak - Shrikant Kushwah">
