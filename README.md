@@ -141,16 +141,11 @@
 <!-----------------------------------GitHub Streak-------------------------------------->
 
 <h2><i>GitHub Streak</i></h2>
-<h2><i>GitHub Streak</i></h2>
 <p style="text-align:center;">
   <a href="https://streak-stats.demolab.com/?user=shrikant-kushwah&theme=dark" target="_blank">
     <img src="https://streak-stats.demolab.com/?user=shrikant-kushwah&theme=dark" alt="shrikant-kushwah GitHub Streak" />
   </a>
 </p>
-<!-- <p align="center">
-       <a href="https://streak-stats.demolab.com/?user=shrikant-kushwah&theme=dark" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=shrikant-kushwah&theme=dark" alt="shrikant-kushwah GitHub Streak" />
-</a> -->
 <!--         [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
 </p>
 
