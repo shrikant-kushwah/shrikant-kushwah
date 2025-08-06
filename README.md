@@ -81,25 +81,25 @@
 
 <!----------------------------------- Project Section ------------------------------------>
 
-<h2><i>My top projects</i></h2>
+<h2><i>My Top Projects</i></h2>
 <p align="left">
-    <a href="https://github.com/shrikant-kushwah/Online_Food_Delivery_Website" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Food Zone&color=000000&logo=Food&logoColor=FFFFFF&label=" alt="Online_Food_Delivery_Website" />
+    <a href="https://github.com/shrikant-kushwah/Online_Food_Delivery_Website" target="_blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Food Zone&color=000000&logo=github&logoColor=white&label=" alt="Online_Food_Delivery_Website" />
     </a>
-    <a href="https://github.com/shrikant-kushwah/Weather_App" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=1a78f4&logo=weather&logoColor=FFFFFF&label=" alt="Weather_App" />
+    <a href="https://github.com/shrikant-kushwah/Weather_App" target="_blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=1a78f4&logo=github&logoColor=white&label=" alt="Weather_App" />
     </a>
-    <a href="https://github.com/shrikant-kushwah/Live-Ecommerce-Website-Reacts-js-" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ecommerce Website&color=FFFF00&logo=Ecommerce&logoColor=FFFFFF&label=" alt="Live-Ecommerce-Website-Reacts-js-" />
+    <a href="https://github.com/shrikant-kushwah/Live-Ecommerce-Website-Reacts-js-" target="_blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ecommerce Website&color=ffa500&logo=github&logoColor=white&label=" alt="Live-Ecommerce-Website-Reacts-js-" />
     </a>
-    <a href="https://github.com/shrikant-kushwah/gpt3_sk" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GPT3_SK Website&color=042c54&logo=GPT3_SK&logoColor=FFFFFF&label=" alt="gpt3_sk" />
+    <a href="https://github.com/shrikant-kushwah/gpt3_sk" target="_blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GPT3_SK Website&color=042c54&logo=github&logoColor=white&label=" alt="gpt3_sk" />
     </a>
-    <a href="https://github.com/shrikant-kushwah/Live-Restaurant" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Live-Restaurant Website&color=dcca87&logo=Live-Restaurant&logoColor=FFFFFF&label=" alt="Live-Restaurant" />
+    <a href="https://github.com/shrikant-kushwah/Live-Restaurant" target="_blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Live-Restaurant Website&color=dcca87&logo=github&logoColor=white&label=" alt="Live-Restaurant" />
     </a>
-    
 </p>
+
 <br>
 
 
@@ -141,9 +141,10 @@
 <!-----------------------------------GitHub Streak-------------------------------------->
 
 <h2><i>GitHub Streak</i></h2>
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&theme=dark" alt="shrikant-kushwah" />
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&theme=dark" alt="shrikant-kushwah GitHub Streak" />
 </p>
+
 
 
 <!---------------------------
