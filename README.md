@@ -83,11 +83,11 @@
 
 <h2><i>My Top Projects</i></h2>
 <p align="left">
-    <a href="https://github.com/shrikant-kushwah/Online_Food_Delivery_Website" target="_blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Food Zone&color=000000&logo=github&logoColor=white&label=" alt="Online_Food_Delivery_Website" />
+    <a href="https://github.com/shrikant-kushwah/Tastico-app" target="_blank">
+       <img width="937" height="442" alt="food-website" src="https://github.com/user-attachments/assets/ae2034e3-135a-46a4-9372-74e3a5873308" />
     </a>
-    <a href="https://github.com/shrikant-kushwah/Weather_App" target="_blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=1a78f4&logo=github&logoColor=white&label=" alt="Weather_App" />
+    <a href="https://github.com/shrikant-kushwah/EduTech-Study-Notion" target="_blank">
+        <img width="953" height="410" alt="edu-technology" src="https://github.com/user-attachments/assets/d230ad0a-1572-43fa-80d5-c3800cd9e754" />
     </a>
     <a href="https://github.com/shrikant-kushwah/Live-Ecommerce-Website-Reacts-js-" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ecommerce Website&color=ffa500&logo=github&logoColor=white&label=" alt="Live-Ecommerce-Website-Reacts-js-" />
