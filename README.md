@@ -142,9 +142,8 @@
 
 <h2><i>GitHub Streak</i></h2>
 <p align="center">
-    <a href="https://git.io/streak-stats" target="_blank">
-        <img src="https://streak-stats.demolab.com?user=shrikant-kushwah&theme=dark" alt="GitHub Streak - shrikant-kushwah" />
-    </a>
+    <img src="https://streak-stats.demolab.com/?user=shrikant-kushwah&theme=dark" alt="shrikant-kushwah GitHub Streak" />
+<!--         [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
 </p>
 
 
