@@ -89,7 +89,7 @@
     <a href="https://github.com/shrikant-kushwah/EduTech-Study-Notion" target="_blank">
         <img width="700" height="300" alt="edu-technology" src="https://github.com/user-attachments/assets/d230ad0a-1572-43fa-80d5-c3800cd9e754" />
     </a>
-    <a href="https://github.com/shrikant-kushwah/Live-Ecommerce-Website-Reacts-js-" target="_blank">
+<!--     <a href="https://github.com/shrikant-kushwah/Live-Ecommerce-Website-Reacts-js-" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ecommerce Website&color=ffa500&logo=github&logoColor=white&label=" alt="Live-Ecommerce-Website-Reacts-js-" />
     </a>
     <a href="https://github.com/shrikant-kushwah/gpt3_sk" target="_blank">
@@ -97,7 +97,7 @@
     </a>
     <a href="https://github.com/shrikant-kushwah/Live-Restaurant" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Live-Restaurant Website&color=dcca87&logo=github&logoColor=white&label=" alt="Live-Restaurant" />
-    </a>
+    </a> -->
 </p>
 
 <br>
