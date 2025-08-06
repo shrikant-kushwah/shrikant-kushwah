@@ -84,10 +84,10 @@
 <h2><i>My Top Projects</i></h2>
 <p align="left">
     <a href="https://github.com/shrikant-kushwah/Tastico-app" target="_blank">
-       <img width="937" height="442" alt="food-website" src="https://github.com/user-attachments/assets/ae2034e3-135a-46a4-9372-74e3a5873308" />
+       <img width="700" height="300" alt="food-website" src="https://github.com/user-attachments/assets/ae2034e3-135a-46a4-9372-74e3a5873308" />
     </a>
     <a href="https://github.com/shrikant-kushwah/EduTech-Study-Notion" target="_blank">
-        <img width="953" height="410" alt="edu-technology" src="https://github.com/user-attachments/assets/d230ad0a-1572-43fa-80d5-c3800cd9e754" />
+        <img width="700" height="300" alt="edu-technology" src="https://github.com/user-attachments/assets/d230ad0a-1572-43fa-80d5-c3800cd9e754" />
     </a>
     <a href="https://github.com/shrikant-kushwah/Live-Ecommerce-Website-Reacts-js-" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ecommerce Website&color=ffa500&logo=github&logoColor=white&label=" alt="Live-Ecommerce-Website-Reacts-js-" />
