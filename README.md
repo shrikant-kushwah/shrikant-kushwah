@@ -1,21 +1,4 @@
 
-
-
-
-
-<!----------------------------------- Heading Section -----------------------------
-![web-developer-logo-4](https://github.com/user-attachments/assets/a7bb399a-037e-4851-a2cb-5dfdd6a89ba4)
-------->
-
-<!----------------------------------- Heading Section -----------------------------
-<h1 align="center">
-        Hi
-        <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="35" alt="wave">
-        I'm Shrikant Kushwah
-    </h1>
-------->
-
-
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F00F7&random=false&width=900&lines=%E2%9C%A8+Hey%2C+I'm+Shrikant+Kushwah.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
@@ -44,40 +27,6 @@
 
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
-
-<h2 style="
-  font-size: 28px; 
-  font-weight: 600; 
-  color: #333; 
-  text-align: center; 
-  margin-bottom: 20px;
-">
-  <i>Tech Stack</i>
-</h2>
-<p style="
-  display: flex; 
-  flex-wrap: wrap; 
-  justify-content: center; 
-  gap: 10px; 
-  margin: 0;
-">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="max-width: 100px;" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="max-width: 100px;" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="max-width: 100px;" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" alt="JavaScript" style="max-width: 100px;" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width: 100px;" />
-  <img src="https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="max-width: 100px;" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="max-width: 100px;" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="max-width: 100px;" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="max-width: 100px;" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" style="max-width: 100px;" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" style="max-width: 100px;" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="max-width: 100px;" />
-</p>
-
-
-
-
 
 <h2 style="
   font-size: 28px; 
@@ -145,15 +94,6 @@
     <a href="https://github.com/shrikant-kushwah/EduTech-Study-Notion" target="_blank">
         <img width="700" height="300" alt="edu-technology" src="https://github.com/user-attachments/assets/d230ad0a-1572-43fa-80d5-c3800cd9e754" />
     </a>
-<!--     <a href="https://github.com/shrikant-kushwah/Live-Ecommerce-Website-Reacts-js-" target="_blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ecommerce Website&color=ffa500&logo=github&logoColor=white&label=" alt="Live-Ecommerce-Website-Reacts-js-" />
-    </a>
-    <a href="https://github.com/shrikant-kushwah/gpt3_sk" target="_blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GPT3_SK Website&color=042c54&logo=github&logoColor=white&label=" alt="gpt3_sk" />
-    </a>
-    <a href="https://github.com/shrikant-kushwah/Live-Restaurant" target="_blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Live-Restaurant Website&color=dcca87&logo=github&logoColor=white&label=" alt="Live-Restaurant" />
-    </a> -->
 </p>
 
 <br>
@@ -204,35 +144,6 @@
 </p>
 <!--         [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
 </p>
-
-
-
-
-<!---------------------------
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&theme=dark" alt="shrikant-kushwah"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slugneffex&" alt="slugneffex" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&" alt="shrikant-kushwah" /></p>
-
-
-
-<h2 align="center"><em>GitHub Streak</em></h2>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&theme=dark" alt="GitHub Streak - Shrikant Kushwah">
-</div>
-
-<h2><em>GitHub Streak</em></h2>
-<div style="text-align: center;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&theme=dark" alt="shrikant-kushwah"/>
-</div>
-
-
-
-
-<h2><i>GitHub Streak</i></h2>
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrikant-kushwah&theme=dark" alt="shrikant-kushwah"/>
-</p>
---------->
 
 
 
