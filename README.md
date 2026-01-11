@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Frontend+Specialist+%7C+React+%26+Next.js;Freelance+Developer&font=Fira+Code&width=500&height=35&color=3F00F7&pause=1000&size=24" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Frontend+Specialist+%7C+React+%26+Next.js;Freelance+Developer&font=Fira+Code&width=450&height=35&color=3F00F7&pause=1000&size=24" />
 </p>
 
 <p align="center">
