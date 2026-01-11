@@ -56,11 +56,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io)
 ![JWT Auth](https://img.shields.io/badge/JWT_Authentication-black?style=for-the-badge&logo=jsonwebtokens)
 ![RBAC](https://img.shields.io/badge/RBAC-8A2BE2?style=for-the-badge)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io)
 ![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-0A66C2?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
 
 ---
@@ -76,11 +76,13 @@
 ### 🔐 Authentication & Security
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 ![OAuth](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge)
-![Refresh Token](https://img.shields.io/badge/Refresh_Token-228B22?style=for-the-badge)
-![Password Hashing](https://img.shields.io/badge/Bcrypt-yellow?style=for-the-badge)
 ![CSRF Protection](https://img.shields.io/badge/CSRF_Protection-red?style=for-the-badge)
 ![XSS Protection](https://img.shields.io/badge/XSS_Protection-orange?style=for-the-badge)
 ![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-8B0000?style=for-the-badge)
+<!--
+![Refresh Token](https://img.shields.io/badge/Refresh_Token-228B22?style=for-the-badge)
+![Password Hashing](https://img.shields.io/badge/Bcrypt-yellow?style=for-the-badge)
+-->
 
 ---
 
@@ -98,11 +100,11 @@
 ---
 
 ### 🚀 DevOps & Deployment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
 ![Render](https://img.shields.io/badge/Render-5E5EFF?style=for-the-badge)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 
 ---
