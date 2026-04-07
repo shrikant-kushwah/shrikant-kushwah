@@ -22,7 +22,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 Full-Stack Developer specializing in **React, Node.js & MongoDB**
+- 💻 Full-Stack Developer specializing in **React, Node.js, SQL & MongoDB**
 - 🔐 Strong in **Authentication, RBAC, JWT, Scalable REST APIs**
 - 🏗️ Building real-world systems like **Intern Management System & Admin Dashboards**
  <!--
