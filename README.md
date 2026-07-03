@@ -84,6 +84,18 @@
 ![Password Hashing](https://img.shields.io/badge/Bcrypt-yellow?style=for-the-badge)
 -->
 
+
+### 🤖 AI & Machine Learning
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipeline-blueviolet?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector_DB-00897B?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-0F766E?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-6A1B9A?style=for-the-badge)
+
 ---
 
 ### 🛠 Tools & Testing
