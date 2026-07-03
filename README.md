@@ -22,12 +22,12 @@
 ---
 
 ## 🚀 About Me
-- 💻 Full-Stack Developer specializing in **JavaScript, React.js, Next.js, React Native, TypeScript, Node.js, SQL & MongoDB**
-- 🔐 Strong in **Authentication, RBAC, JWT, Scalable REST APIs**
-- 🏗️ Building real-world systems like **Intern Management System & Admin Dashboards**
- <!--
-- 🎯 Preparing for **Senior Frontend & Backend Interviews**
--->
+- 💻 Full-Stack & Mobile Developer specializing in **React.js, Next.js, React Native, Node.js & TypeScript**
+- 🤖 Building **AI-powered applications** using **OpenAI, Gemini, LangChain & RAG**
+- 🔐 Experienced in **Authentication, RBAC, JWT & scalable REST APIs**
+- 📱 Passionate about creating production-ready Web, Mobile & AI applications
+- 🚀 Always learning modern technologies and building real-world products
+ 
 
 
 ---
