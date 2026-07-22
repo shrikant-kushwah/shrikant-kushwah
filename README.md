@@ -57,6 +57,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT Auth](https://img.shields.io/badge/JWT_Authentication-black?style=for-the-badge&logo=jsonwebtokens)
 ![RBAC](https://img.shields.io/badge/RBAC-8A2BE2?style=for-the-badge)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io)
