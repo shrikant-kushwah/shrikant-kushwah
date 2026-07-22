@@ -22,11 +22,13 @@
 ---
 
 ## 🚀 About Me
-- 💻 Full-Stack & Mobile Developer specializing in **React.js, Next.js, React Native, Node.js & TypeScript**
-- 🤖 Building **AI-powered applications** using **OpenAI, Gemini, LangChain & RAG**
-- 🔐 Experienced in **Authentication, RBAC, JWT & scalable REST APIs**
-- 📱 Passionate about creating production-ready Web, Mobile & AI applications
-- 🚀 Always learning modern technologies and building real-world products
+- 💻 Full-Stack Developer specializing in **React.js, Next.js, Node.js, FastAPI, Python & TypeScript**
+- 📱 Building cross-platform mobile apps with **React Native**
+- 🤖 Developing **AI-powered applications** using **OpenAI, Gemini, LangChain, RAG & FAISS**
+- 🗄️ Designing scalable backends with **FastAPI, Express.js, MySQL & MongoDB**
+- 🔐 Experienced in **REST APIs, JWT Authentication, RBAC & Secure System Design**
+- ☁️ Passionate about building production-ready **Web, Mobile & AI SaaS** applications
+- 🚀 Continuously learning **LLMs, AI Agents, Vector Databases, Cloud & System Design**
  
 
 
