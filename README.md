@@ -97,6 +97,7 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge)
 ![Vector Database](https://img.shields.io/badge/Vector_DB-00897B?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-0F766E?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Semantic Search](https://img.shields.io/badge/Semantic_Search-6A1B9A?style=for-the-badge)
 
 ---
