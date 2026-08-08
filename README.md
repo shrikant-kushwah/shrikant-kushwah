@@ -129,12 +129,11 @@
 
 ## 🧠 Featured Projects
 
-| Project | Description |
-|-------|-------------|
-| [🍔 Tastico App](https://github.com/shrikant-kushwah/Tastico-app) | Swiggy-style Food Ordering Platform using React & Live API |
-| [📚 EduTech – StudyNotion](https://github.com/shrikant-kushwah/EduTech-Study-Notion) | Complete Ed-Tech Platform with Authentication & Admin Dashboard |
-
----
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🤖 [AI Interview Tracker](https://github.com/shrikant-kushwah/ai-interview-tracker) | AI-powered job application & interview management SaaS with AI interview preparation, resume/JD analysis, recruiter emails, AI chat, and real-time streaming | `Next.js` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `OpenAI` · `Gemini` · `JWT` · `SSE` |
+| 💰 [AI Smart Expense Tracker](https://github.com/shrikant-kushwah/ai-expense-tracker) | AI-powered personal finance assistant with expense tracking, budgeting, analytics, receipt OCR, automatic categorization, financial insights, and RAG-based recommendations | `React Native` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `Redux Toolkit` · `Gemini` · `Pinecone` |
+| 📚 [EduTech – StudyNotion](https://github.com/shrikant-kushwah/EduTech-Study-Notion) | Full-stack Ed-Tech platform with secure authentication, course management, student/instructor workflows, and admin dashboard | `MERN` · `MongoDB` · `Express.js` · `React.js` · `Node.js` |
 
 ## 🌐 Connect With Me
 
