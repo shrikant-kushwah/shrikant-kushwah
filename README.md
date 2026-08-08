@@ -127,14 +127,13 @@
 
 ---
 
-## 🧠 Featured Projects
+### 🧠 Featured Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🤖 [AI Interview Tracker](https://github.com/shrikant-kushwah/ai-interview-tracker) | AI-powered job application & interview management SaaS with AI interview preparation, resume/JD analysis, recruiter emails, AI chat, and real-time streaming | `Next.js` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `OpenAI` · `Gemini` · `JWT` · `SSE` |
-| 💰 [AI Smart Expense Tracker](https://github.com/shrikant-kushwah/ai-expense-tracker) | AI-powered personal finance assistant with expense tracking, budgeting, analytics, receipt OCR, automatic categorization, financial insights, and RAG-based recommendations | `React Native` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `Redux Toolkit` · `Gemini` · `Pinecone` |
-| 📚 [EduTech – StudyNotion](https://github.com/shrikant-kushwah/EduTech-Study-Notion) | Full-stack Ed-Tech platform with secure authentication, course management, student/instructor workflows, and admin dashboard | `MERN` · `MongoDB` · `Express.js` · `React.js` · `Node.js` |
-
+| 🤖 AI Interview Tracker | AI-powered job application & interview management SaaS with AI interview preparation, resume/JD analysis, recruiter emails, AI chat, and real-time streaming. **[ Live Demo](https://ai-interview-tracker-nine.vercel.app/)** | `Next.js` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `OpenAI` · `Gemini` · `JWT` · `SSE` |
+| 💰 AI Smart Expense Tracker | AI-powered personal finance assistant with expense tracking, budgeting, analytics, receipt OCR, automatic categorization, financial insights, and RAG-based recommendations. · [ Live Demo](https://drive.google.com/file/d/1I0LGsR21QC0cqBM7gjaDH7o_MO8zvvmX/view?usp=sharing)** | `React Native` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `Redux Toolkit` · `Gemini` · `Pinecone` |
+| 📚 EduTech – StudyNotion| Full-stack Ed-Tech platform with secure authentication, course management, student/instructor workflows, and admin dashboard. **[ Live Demo](https://study-notion-iqpm.vercel.app/)** | `MERN` · `MongoDB` · `Express.js` · `React.js` · `Node.js` |
 ## 🌐 Connect With Me
 
 <p align="center">
